@@ -1,0 +1,14 @@
+{
+	x: 2.5d,
+	y: 8.0d,
+	dependencies: [
+		"c3c3866a"
+	],
+	tasks: [{
+		uid: "a54d0540",
+		type: "item",
+		items: [{
+			item: "hbm:ammo_50bmg"
+		}]
+	}]
+}

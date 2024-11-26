@@ -1,0 +1,25 @@
+{
+	x: 3.5d,
+	y: -2.5d,
+	shape: "hexagon",
+	description: "'Vaporeon, in human terms...'",
+	text: [
+		""
+	],
+	dependencies: [
+		"eced77ce"
+	],
+	tasks: [{
+		uid: "cac2c4e1",
+		type: "item",
+		items: [{
+			id: "simpledifficulty:canteen",
+			tag: {
+				Doses: 4,
+				CanteenType: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	title: "Sentry Controls",
+	x: -1.0d,
+	y: 3.0d,
+	text: [
+		"The AI chips lets your turret automatically aim targets and shoot them, the turret controller lets you manually control one of your turrets at a time"
+	],
+	dependencies: [
+		"6f3e1ed8"
+	],
+	tasks: [{
+		uid: "2f676838",
+		type: "item",
+		items: [{
+			id: "hbm:turret_chip",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9727baa1",
+		type: "item",
+		items: [{
+			item: "hbm:turret_control"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

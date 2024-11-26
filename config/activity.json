@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "YeahFrick",
+      "uniqueId": "b7050445-7d2a-4cd4-a340-3b78e73cb385"
+    },
+    "time": 1710062124234,
+    "type": "Heap dump",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\Lev\\AppData\\Roaming\\ATLauncher\\instances\\LevviatasParasiteOutbreak\\config\\heap-2024-03-10_10.15.12.hprof"
+    }
+  }
+]

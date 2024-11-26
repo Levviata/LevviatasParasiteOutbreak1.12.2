@@ -1,0 +1,32 @@
+{
+	title: "Simple Difficulty",
+	x: 1.5d,
+	y: -1.5d,
+	shape: "octagon",
+	description: "Explanation of what Simple Difficulty does",
+	text: [
+		"Simple Difficulty is a Tough As Nails (TAN) alternative that includes the same as its counterpart; thirst, temperature, and suffering! Here's a list of features:",
+		"",
+		"- Thirst: To lidiate with it you can; drink from a block of water by crouching and clicking right click with both hands (main and offhand) empty, drink from a",
+		"metal or leather cantiplore (see branching quests)",
+		"",
+		"- Temperature: To ldiate with it you can; go into a body of water or stay near a cold source if you are hot , go into a body of lava ",
+		"(not recommended) or stay near a hot source if you are cold"
+	],
+	dependencies: [
+		"d1a6d9ba"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "caffec5f",
+		type: "checkmark",
+		title: "Read Me!",
+		icon: {
+			id: "simpledifficulty:iron_canteen",
+			tag: {
+				Doses: 0,
+				CanteenType: 0
+			}
+		}
+	}]
+}

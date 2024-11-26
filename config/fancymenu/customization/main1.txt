@@ -1,0 +1,105 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 186
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 93f7c649-50fe-4ab7-89b5-8a220be760331709995260129
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 169
+  action = deep_customization_element:title_screen_branding
+  actionid = 673fc4cb-8a59-44ea-a8f8-e4b1ff11380f1709995260142
+  y = 296
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 411
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 403cd1ea-da4c-4f96-b699-f611e5eb5bd11709995260142
+  y = 318
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 423
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 22fa8fad-3b25-4a20-8e74-eab65289b1ba1709995260143
+  y = 184
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 183
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 6ea32b9b-8717-41a7-8a4c-d178dc7b10481709995260143
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = top-centered
+  splash_color = #ffff00
+  hidden = true
+  x = -93
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 44f9c27b-a4bd-4c6f-8a9a-286df0da3f121709995260143
+  y = 121
+  height = 30
+}
+
+customization {
+  path = fancymenu_assets/levviatas.png
+  orientation = top-centered
+  x = -124
+  width = 251
+  actionid = a01eb52a-c3a8-4aa8-b0f4-25f39fa85f4a1709996863174
+  action = addtexture
+  y = 29
+  height = 57
+}
+
+customization {
+  path = fancymenu_assets/unittledthree.png
+  orientation = top-centered
+  x = -111
+  width = 227
+  actionid = 9e25c0e9-8fd2-48da-8307-ed13e34fd9231709996953320
+  action = addtexture
+  y = 79
+  height = 22
+}
+

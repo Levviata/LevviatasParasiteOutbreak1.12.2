@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: 9.0d,
+	dependencies: [
+		"d7435b84"
+	],
+	tasks: [{
+		uid: "20cf12bc",
+		type: "item",
+		items: [{
+			item: "hbm:ammo_shell"
+		}]
+	}]
+}
