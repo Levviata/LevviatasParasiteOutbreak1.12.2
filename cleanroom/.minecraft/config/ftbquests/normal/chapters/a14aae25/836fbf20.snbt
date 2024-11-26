@@ -1,0 +1,31 @@
+{
+	title: "No Tree Punching (NTP)",
+	icon: "notreepunching:flint_shard",
+	x: -2.25d,
+	y: 0.0d,
+	shape: "octagon",
+	description: "Explanation on how No Tree Punching (NTP) works",
+	text: [
+		"As the mod name suggests you cannot punch trees anymore (realistic wow!!!), however, this is easy to deal with if you know how to do so, here's what",
+		"to know:",
+		"",
+		"- You can't punch trees (obviously)",
+		"",
+		"- Flint tools are now the new wood; you will be using these to get your way to stone tier but, these aren't made with whole flints instead, they are made with shards, to get these shards you will need to have a flint on your main hand (clear off your offhand) and then right click on the top part of a hard block like stone ",
+		"(stone bricks, granite, andesite, diorite, etc.), if you hear a sound you are doing it correctly, keep going until your flint shatters (IMPORTANT: You might get nothing so, try again with another flint!) and BOOM! You have enough shards to craft a knife and an axe!",
+		"",
+		"- The new texture pack for NTP was made by me, now praise me!",
+		"",
+		"- Please do use JEI as explaining how to craft something is a pain!"
+	],
+	dependencies: [
+		"d1a6d9ba"
+	],
+	dependency_requirement: "all_started",
+	size: 1.5d,
+	tasks: [{
+		uid: "defd7466",
+		type: "checkmark",
+		title: "Read Me!"
+	}]
+}

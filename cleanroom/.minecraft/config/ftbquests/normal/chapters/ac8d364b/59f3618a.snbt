@@ -1,0 +1,22 @@
+{
+	x: -3.5d,
+	y: -2.5d,
+	text: [
+		"Mostly used to make tungsten wire, also used later on like titanium"
+	],
+	hide_dependency_lines: true,
+	min_required_dependencies: 1,
+	dependencies: [
+		"834d0cad",
+		"10330e64"
+	],
+	hide: true,
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "86cd68e3",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_tungsten"
+		}]
+	}]
+}

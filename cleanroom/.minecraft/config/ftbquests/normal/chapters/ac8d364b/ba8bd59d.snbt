@@ -1,0 +1,22 @@
+{
+	x: -2.5d,
+	y: -3.0d,
+	text: [
+		"Can be used as white dye and later on is used in chemical plants"
+	],
+	hide_dependency_lines: true,
+	min_required_dependencies: 1,
+	dependencies: [
+		"834d0cad",
+		"10330e64"
+	],
+	hide: true,
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "22543b66",
+		type: "item",
+		items: [{
+			item: "hbm:fluorite"
+		}]
+	}]
+}

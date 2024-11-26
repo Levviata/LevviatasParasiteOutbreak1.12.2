@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: 13.0d,
+	description: "(Turret is fuelled with energy)",
+	text: [
+		""
+	],
+	dependencies: [
+		"6c7b8d24"
+	],
+	tasks: [{
+		uid: "09dc97ef",
+		type: "item",
+		items: [{
+			item: "hbm:turret_maxwell"
+		}]
+	}]
+}

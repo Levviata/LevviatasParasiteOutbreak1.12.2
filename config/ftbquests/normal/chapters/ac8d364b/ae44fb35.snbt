@@ -1,0 +1,15 @@
+{
+	x: 3.5d,
+	y: -1.5d,
+	dependencies: [
+		"b70d0875"
+	],
+	hide: true,
+	tasks: [{
+		uid: "4968b663",
+		type: "item",
+		items: [{
+			item: "hbm:grenade_plasma"
+		}]
+	}]
+}

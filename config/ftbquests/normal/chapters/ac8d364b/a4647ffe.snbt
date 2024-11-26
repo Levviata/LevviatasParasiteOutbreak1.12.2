@@ -1,0 +1,15 @@
+{
+	x: -1.5d,
+	y: -3.5d,
+	dependencies: [
+		"adc1f84d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "50dc1c2e",
+		type: "item",
+		items: [{
+			item: "hbm:mechanism_rifle_1"
+		}]
+	}]
+}

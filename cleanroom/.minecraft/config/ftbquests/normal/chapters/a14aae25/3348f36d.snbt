@@ -1,0 +1,26 @@
+{
+	title: "First Aid",
+	icon: "roughtweaks:medikit",
+	x: 0.0d,
+	y: 2.25d,
+	shape: "octagon",
+	description: "Explanation of what is First Aid",
+	text: [
+		"First Aid is a good ol' health system mod that (obviously) adds a health system, each of your body parts now have their own health (your health bar is the sum of all your limbs), more importantly; if your chest or head gets to 0 you die! (yipeeeee), here's a list of features:",
+		"",
+		"- Health system with limb health",
+		"",
+		"- Bandages, plasters, medkits, etc.",
+		"",
+		"- More suffering to the mix!"
+	],
+	dependencies: [
+		"d1a6d9ba"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "17561be7",
+		type: "checkmark",
+		title: "Read Me!"
+	}]
+}

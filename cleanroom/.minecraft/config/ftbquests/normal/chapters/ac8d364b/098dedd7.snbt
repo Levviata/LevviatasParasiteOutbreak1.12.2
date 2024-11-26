@@ -1,0 +1,22 @@
+{
+	x: -7.0d,
+	y: 1.0d,
+	text: [
+		"Used for making: Wires; Ammuntion; Misc items; Plates; And more that I forgot"
+	],
+	dependencies: [
+		"88570ab5"
+	],
+	tasks: [{
+		uid: "c5cc2590",
+		type: "item",
+		items: [{
+			item: "hbm:machine_press"
+		}]
+	}],
+	rewards: [{
+		uid: "353773c4",
+		type: "xp",
+		xp: 100
+	}]
+}

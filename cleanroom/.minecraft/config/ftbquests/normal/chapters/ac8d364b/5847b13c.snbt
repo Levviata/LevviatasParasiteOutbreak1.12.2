@@ -1,0 +1,23 @@
+{
+	x: -5.5d,
+	y: -1.5d,
+	text: [
+		"An energy based machine that infuses metals into other items to make stronger conconctions, used strongly for turret and alloy making"
+	],
+	dependencies: [
+		"598df9bd"
+	],
+	tasks: [{
+		uid: "969926f0",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock 1 8"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fa17a573",
+		type: "xp",
+		xp: 50
+	}]
+}

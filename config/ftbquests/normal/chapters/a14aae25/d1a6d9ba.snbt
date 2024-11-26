@@ -1,0 +1,38 @@
+{
+	title: "Why Is Everything Weird?",
+	icon: "minecraft:grass",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	description: "General Explanation of the modpack and its key features",
+	text: [
+		"So, I suppose you know what you should be up to?... Oh you don't? Your poor little thing, prepare to get that death counter to a hundred.",
+		"",
+		"I'll start with the main things you need to know in order to survive:",
+		"",
+		"- Xp is no longer dropped by any mob, ore or item and instead, is only granted by completing quests in this guide book (note: Xp does not dissapear on death)",
+		"",
+		"- Every 10 days you'll get raided by a parasitic horde, don't waste your time and use it wisely! (this includes sleeping!!!)",
+		"",
+		"- Early days have little to no mobs at night, take that your advantage!",
+		"",
+		"- Everytime you die you get the option to respawn in a random location far from your death point or your bed respawn point with the day and ",
+		"parasite's phase set to 0 as to give you a fresh start without having to make another world.",
+		"",
+		"- No Tree Punching (NTP) is installed, check the other branching quests to know how to deal with it!",
+		"",
+		"- If you experience lag this might be due to FBP (Fancier Block Particles), disable it in It's config!",
+		"",
+		"- This modpack uses Simple Difficulty; this mod adds thirst and temperature mechanics, keep a bucket of water and a campfire in your inventory!",
+		"",
+		"- If you want to know why you get weakened randomly refer to the Hbm branch!",
+		"",
+		"- Good luck and be at alert!"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "8a014236",
+		type: "checkmark",
+		title: "Read Me!"
+	}]
+}

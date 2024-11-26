@@ -1,0 +1,22 @@
+{
+	x: -6.0d,
+	y: -0.5d,
+	text: [
+		"A fuel based machine that is mostly use to make alloys of different types and colors"
+	],
+	dependencies: [
+		"598df9bd"
+	],
+	tasks: [{
+		uid: "59cc5a37",
+		type: "item",
+		items: [{
+			item: "hbm:machine_difurnace_off"
+		}]
+	}],
+	rewards: [{
+		uid: "6dbcd6cd",
+		type: "xp",
+		xp: 50
+	}]
+}

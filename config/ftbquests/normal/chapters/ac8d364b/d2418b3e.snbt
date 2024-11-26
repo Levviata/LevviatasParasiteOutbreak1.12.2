@@ -1,0 +1,20 @@
+{
+	x: 1.5d,
+	y: 0.5d,
+	dependencies: [
+		"b9672235"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ef691d47",
+		type: "item",
+		items: [{
+			item: "openmodularturrets:turret_base"
+		}]
+	}],
+	rewards: [{
+		uid: "af70807e",
+		type: "xp",
+		xp: 50
+	}]
+}

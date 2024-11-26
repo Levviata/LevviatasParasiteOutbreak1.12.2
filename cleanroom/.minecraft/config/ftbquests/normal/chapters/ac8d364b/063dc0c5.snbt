@@ -1,0 +1,23 @@
+{
+	x: -4.5d,
+	y: 1.0d,
+	description: "STORAGEEEEEEEEEEEEEEEEE",
+	text: [
+		"The bin is a new block added by Mekanism which lets you stack up an absurd amount of one item in one block (the bin)"
+	],
+	dependencies: [
+		"598df9bd"
+	],
+	tasks: [{
+		uid: "b4f60f56",
+		type: "item",
+		items: [{
+			id: "mekanism:basicblock",
+			tag: {
+				tier: 0
+			},
+			Damage: 6s
+		}],
+		ignore_nbt: 1b
+	}]
+}

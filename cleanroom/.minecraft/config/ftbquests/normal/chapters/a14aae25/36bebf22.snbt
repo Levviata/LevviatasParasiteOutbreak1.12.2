@@ -1,0 +1,22 @@
+{
+	title: "Oh Wowie Easier Flint",
+	x: -4.5d,
+	y: -2.0d,
+	shape: "hexagon",
+	description: "Explanation of the new flint recipes",
+	text: [
+		"From copper tools and up you are now able to 'dig up' gravel in your inventory and get one flint guaranteed"
+	],
+	dependencies: [
+		"767ac33b"
+	],
+	tasks: [{
+		uid: "aeb6190c",
+		type: "item",
+		items: [{
+			item: "levviatasores:copper_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

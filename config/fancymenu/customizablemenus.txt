@@ -1,0 +1,8 @@
+type = customizablemenus
+
+net.minecraftforge.fml.client.config.GuiConfig {
+}
+
+net.minecraft.client.gui.GuiMainMenu {
+}
+

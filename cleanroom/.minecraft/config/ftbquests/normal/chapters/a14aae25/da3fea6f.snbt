@@ -1,0 +1,36 @@
+{
+	title: "Hbm's Nuclear Tech (hbm)",
+	icon: "hbm:nuke_tsar",
+	x: 0.0d,
+	y: -2.25d,
+	shape: "octagon",
+	description: "Explanation of what is Hbm's Nuclear Tech Mod",
+	text: [
+		"Hbm is a mod about nuclear technology and machinery, this mod adds A LOT of content so I'll be listing it's features briefly:",
+		"",
+		"- Some new ores",
+		"",
+		"- Turrets",
+		"",
+		"- Lung health system (black lung included)",
+		"",
+		"- Radiation",
+		"",
+		"- Big bombs (I love Tsars!!!)",
+		"",
+		"- Armors",
+		"",
+		"- Machinery",
+		"",
+		"- A LOT of weapons (including guns)"
+	],
+	dependencies: [
+		"d1a6d9ba"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "26f5a151",
+		type: "checkmark",
+		title: "HBM Extended Version"
+	}]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "identifier": "1",
+    "title": "1",
+    "description": "2",
+    "icon": "{id:\"minecraft:stone\",Count:1b,Damage:6s}",
+    "x": 222,
+    "y": 73,
+    "cost": 1,
+    "sellPrice": 0,
+    "parents": [],
+    "partialParents": false,
+    "children": [],
+    "placed": true
+  }
+]

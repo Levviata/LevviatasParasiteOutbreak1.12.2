@@ -1,0 +1,14 @@
+{
+	x: -0.5d,
+	y: 10.0d,
+	dependencies: [
+		"ee94f63e"
+	],
+	tasks: [{
+		uid: "ec1eeb00",
+		type: "item",
+		items: [{
+			item: "hbm:ammo_rocket_canister"
+		}]
+	}]
+}

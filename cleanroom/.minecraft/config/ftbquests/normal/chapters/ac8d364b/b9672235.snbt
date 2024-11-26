@@ -1,0 +1,23 @@
+{
+	title: "Defense 101",
+	icon: "minecraft:iron_sword",
+	x: 2.0d,
+	y: -0.5d,
+	description: "KILL!!!",
+	text: [
+		""
+	],
+	dependencies: [
+		"10330e64"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "38362359",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "1dc8ffe3",
+		type: "xp",
+		xp: 50
+	}]
+}

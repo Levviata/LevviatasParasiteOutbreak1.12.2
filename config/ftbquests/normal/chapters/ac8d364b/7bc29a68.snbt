@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	dependencies: [
+		"e5a1eccc"
+	],
+	hide: true,
+	tasks: [{
+		uid: "28422365",
+		type: "item",
+		items: [{
+			item: "hbm:barbed_wire_ultradeath"
+		}]
+	}]
+}

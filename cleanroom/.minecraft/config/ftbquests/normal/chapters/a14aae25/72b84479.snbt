@@ -1,0 +1,30 @@
+{
+	title: "Scape and Run (SPR)",
+	icon: "nocubessrpsurvival:cookedparasiteheart",
+	x: -1.5d,
+	y: -1.5d,
+	shape: "octagon",
+	description: "Explanation about what SPR is",
+	text: [
+		"Scape and Run is a mod themed around parasites and is the main mod in this modpack, here's a list of what it adds (and one thing it doesn't add):",
+		"",
+		"- No, it does not add the horde mechanic",
+		"",
+		"- A bucket-load of parasite mobs",
+		"",
+		"- Parasite themed tools",
+		"",
+		"- A parasite progression system with 8 phases deciding which parasite to spawn or not (additive)",
+		"",
+		"- New blocks made of the parts of parasite mobs that reduce the points of each phase named 'lures'(see SPR wiki to understand what points in phases are)"
+	],
+	dependencies: [
+		"d1a6d9ba"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "a21ff956",
+		type: "checkmark",
+		title: "Read Me!"
+	}]
+}

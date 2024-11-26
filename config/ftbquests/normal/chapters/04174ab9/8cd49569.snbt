@@ -1,0 +1,25 @@
+{
+	title: "Hbm's Nuclear Tech Mod",
+	icon: "hbm:iter",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	description: "I LOVE NUKES!!!!!!",
+	text: [
+		"In this chapter we will talk about the more advanced sentries, machinery stuff and how to do a backflip (optional)"
+	],
+	dependencies: [
+		"665e56af"
+	],
+	hide: true,
+	size: 2.0d,
+	tasks: [{
+		uid: "b340f7d6",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "0ae89bda",
+		type: "xp",
+		xp: 200
+	}]
+}

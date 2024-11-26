@@ -1,0 +1,33 @@
+{
+	x: -4.5d,
+	y: -2.0d,
+	text: [
+		"A complexer iron anvil that lets you craft a variety of stuff, important for early and late (late = higher tiers)"
+	],
+	dependencies: [
+		"598df9bd"
+	],
+	tasks: [{
+		uid: "14962979",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "anyIronAnvil",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any anyIronAnvil"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "f6afb3a2",
+		type: "xp",
+		xp: 50
+	}]
+}
