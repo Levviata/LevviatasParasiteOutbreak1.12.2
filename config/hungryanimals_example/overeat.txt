@@ -1,7 +1,0 @@
-################
-#HUNGRY ANIMALS#
-################
-
-see overeat.html
-
-

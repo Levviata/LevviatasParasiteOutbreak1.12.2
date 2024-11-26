@@ -1,6 +1,0 @@
-################
-#HUNGRY ANIMALS#
-################
-
-see 'food_preferences/block/block.html'.
-

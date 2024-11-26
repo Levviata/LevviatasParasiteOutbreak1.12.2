@@ -1,7 +1,0 @@
-{
-	title: "First Steps To Oblivion",
-	icon: "minecraft:iron_ore",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

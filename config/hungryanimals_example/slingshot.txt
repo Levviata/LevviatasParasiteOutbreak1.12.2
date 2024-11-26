@@ -1,7 +1,0 @@
-################
-#HUNGRY ANIMALS#
-################
-
-see slingshot.html
-
-
