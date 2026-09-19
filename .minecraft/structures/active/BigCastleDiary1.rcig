@@ -1,0 +1,51 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "BigCastleDiary1",
+  "items": [
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:written_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "pages": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "string",
+                  "nbt": "{\"text\":\"Maria! Oh, Maria!\\nOh so quick\\npeasants -- sanguine bullets!\\nMaria! Oh, Maria!\\nWhy do the weapons lose vertigo so dissemblingly?\\nMaria!\\nMaria! Oh, Maria!\\n\\nThey overtake to \"}"
+                },
+                {
+                  "nbtType": "string",
+                  "nbt": "{\"text\":\"sneak.\\nlips and bone, maybe, maybe! bullets like the lies.\\n\\nMaria! Oh, Maria!\\nlive silently like a sunny arrow above dusk.\\nMaria is monstrous\\n\"}"
+                },
+                {
+                  "nbtType": "string",
+                  "nbt": "{\"text\":\"These shacks I once terrified\\nmaybe! dusk, the violent voracity.\\nWe stalked to lose.\\nkisses, arrows, days - Those are our true beauty.\\n\"}"
+                }
+              ]
+            },
+            "author": {
+              "nbtType": "string",
+              "nbt": "Joonas Jennisson"
+            },
+            "title": {
+              "nbtType": "string",
+              "nbt": "Maria"
+            },
+            "resolved": {
+              "nbtType": "byte",
+              "nbt": 1
+            }
+          }
+        }
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

@@ -1,0 +1,24 @@
+{
+	title: "The Horde",
+	x: -1.5d,
+	y: 1.5d,
+	shape: "octagon",
+	description: "Explanation of what The Horde adds up to",
+	text: [
+		"The Horde is a mod that, well, adds hordes, to be specific, these hordes (which of are parasites) come every 10 days to snatch the life out of your soul, along a small chance of getting infected by a zombie (more on that later), here's a list:",
+		"",
+		"- Hordes",
+		"",
+		"- Zombie infection; cured with any type of golden food, including drinks"
+	],
+	dependencies: [
+		"d1a6d9ba"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "9c062748",
+		type: "checkmark",
+		title: "The Horde",
+		icon: "minecraft:skull 1 2"
+	}]
+}

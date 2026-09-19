@@ -1,7 +1,24 @@
 /disabled mods/
 /.idea/
-/mods/
-/resourcepacks/Emis_Rlcraft.zip
-/resourcepacks/AnimEmis_srparasites.zip
-/resourcepacks/Kosmolot's Colored Subtitles 1.12.2+20230506.zip
-/resourcepacks/MekanismInfuseTypes.zip
+/.minecraft/mods/
+/.minecraft/resourcepacks/Emis_Rlcraft.zip
+/.minecraft/resourcepacks/AnimEmis_srparasites.zip
+/.minecraft/resourcepacks/Kosmolot's Colored Subtitles 1.12.2+20230506.zip
+/.minecraft/resourcepacks/MekanismInfuseTypes.zip
+/.minecraft/logs/
+/.minecraft/local/
+/.minecraft/coremods/
+/.minecraft/crash-reports/
+/.minecraft/cache/
+/.minecraft/saves/
+/.minecraft/screenshots/
+/.minecraft/server-resource-packs/
+/.minecraft/shaderpacks/
+/.minecraft/texturepacks/
+/.minecraft/vintagefix/
+/.minecraft/knownkeys.txt
+/.minecraft/optionsof.txt
+/.minecraft/patchouli_data.json
+/.minecraft/usercache.json
+/.minecraft/usernamecache.json
+/.minecraft/options.txt

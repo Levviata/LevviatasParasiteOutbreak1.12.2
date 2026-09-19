@@ -1,0 +1,14 @@
+[
+	{
+		"sourceFilePath": "xaerominimap.txt",
+		"destinationFilePath": "config/xaerominimap.txt",
+		"serverSide": false,
+		"clientSide": true	
+	},
+	{
+		"sourceFilePath": "xaerominimap_entities.json",
+		"destinationFilePath": "config/xaerominimap_entities.json",
+		"serverSide": false,
+		"clientSide": true
+	}
+]

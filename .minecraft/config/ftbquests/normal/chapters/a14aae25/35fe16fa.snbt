@@ -1,0 +1,21 @@
+{
+	title: "Unlock Next Progression Stage",
+	x: 0.0d,
+	y: 5.0d,
+	shape: "octagon",
+	description: "Yes sir!",
+	text: [
+		"Make sure you have read everything beforehand."
+	],
+	dependencies: [
+		"e0276694",
+		"97e851f1"
+	],
+	dependency_requirement: "all_started",
+	size: 2.0d,
+	tasks: [{
+		uid: "ddaf798b",
+		type: "checkmark",
+		icon: "minecraft:stone"
+	}]
+}

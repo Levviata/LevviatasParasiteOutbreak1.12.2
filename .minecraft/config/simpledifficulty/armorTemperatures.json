@@ -1,0 +1,466 @@
+{
+  "simpledifficulty:ice_chestplate": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -0.2
+    }
+  ],
+  "simpledifficulty:ice_helmet": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -0.2
+    }
+  ],
+  "hbm:starmetal_plate": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.2
+    }
+  ],
+  "hbm:schrabidium_boots": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 5.6
+    }
+  ],
+  "hbm:fau_boots": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.4
+    }
+  ],
+  "hbm:hev_plate": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 4.8
+    }
+  ],
+  "hbm:schrabidium_plate": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 5.6
+    }
+  ],
+  "hbm:ajro_plate": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 4.4
+    }
+  ],
+  "hbm:fau_legs": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.4
+    }
+  ],
+  "simpledifficulty:wool_boots": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 0.2
+    }
+  ],
+  "hbm:rpa_legs": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "hbm:cmb_boots": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 4.0
+    }
+  ],
+  "hbm:ajro_boots": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 4.4
+    }
+  ],
+  "hbm:bj_plate_jetpack": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 5.2
+    }
+  ],
+  "hbm:fau_plate": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.4
+    }
+  ],
+  "hbm:fau_helmet": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.4
+    }
+  ],
+  "hbm:rpa_helmet": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "simpledifficulty:wool_leggings": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 0.2
+    }
+  ],
+  "hbm:hev_boots": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 4.8
+    }
+  ],
+  "hbm:t45_boots": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.6
+    }
+  ],
+  "hbm:t45_helmet": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.6
+    }
+  ],
+  "hbm:ajro_helmet": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 4.4
+    }
+  ],
+  "hbm:ajr_legs": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 4.4
+    }
+  ],
+  "hbm:bj_plate": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 5.2
+    }
+  ],
+  "hbm:t45_legs": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.6
+    }
+  ],
+  "hbm:schrabidium_legs": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 5.6
+    }
+  ],
+  "hbm:euphemium_boots": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 7.2
+    }
+  ],
+  "hbm:schrabidium_helmet": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 5.6
+    }
+  ],
+  "hbm:rpa_plate": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "hbm:ajr_boots": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 4.4
+    }
+  ],
+  "simpledifficulty:wool_chestplate": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 0.2
+    }
+  ],
+  "hbm:bj_boots": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 5.2
+    }
+  ],
+  "hbm:starmetal_legs": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.2
+    }
+  ],
+  "hbm:ajr_plate": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 4.4
+    }
+  ],
+  "hbm:ajro_legs": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 4.4
+    }
+  ],
+  "hbm:euphemium_plate": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 7.2
+    }
+  ],
+  "hbm:dns_plate": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.8
+    }
+  ],
+  "hbm:hev_legs": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 4.8
+    }
+  ],
+  "hbm:euphemium_legs": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 7.2
+    }
+  ],
+  "hbm:bj_helmet": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 5.2
+    }
+  ],
+  "simpledifficulty:wool_helmet": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 0.2
+    }
+  ],
+  "hbm:cmb_helmet": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 4.0
+    }
+  ],
+  "hbm:t45_plate": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.6
+    }
+  ],
+  "hbm:dns_legs": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.8
+    }
+  ],
+  "hbm:bj_legs": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 5.2
+    }
+  ],
+  "simpledifficulty:ice_leggings": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -0.2
+    }
+  ],
+  "hbm:euphemium_helmet": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 7.2
+    }
+  ],
+  "hbm:rpa_boots": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.0
+    }
+  ],
+  "hbm:cmb_legs": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 4.0
+    }
+  ],
+  "hbm:starmetal_boots": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.2
+    }
+  ],
+  "hbm:dns_helmet": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.8
+    }
+  ],
+  "simpledifficulty:ice_boots": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -0.2
+    }
+  ],
+  "baubles:ring": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": -0.025
+    }
+  ],
+  "hbm:cmb_plate": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 4.0
+    }
+  ],
+  "hbm:ajr_helmet": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 4.4
+    }
+  ],
+  "hbm:hev_helmet": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 4.8
+    }
+  ],
+  "hbm:dns_boots": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 6.8
+    }
+  ],
+  "hbm:starmetal_helmet": [
+    {
+      "identity": {
+        "metadata": -1
+      },
+      "temperature": 3.2
+    }
+  ]
+}
