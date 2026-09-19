@@ -1,9 +1,0 @@
-{
-  "ammos": [
-    {
-      "type": "forge:ore_dict",
-      "ore": "cobblestone"
-    }
-  ],
-  "damage": 2
-}
